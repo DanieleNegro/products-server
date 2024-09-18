@@ -9,7 +9,8 @@ const products = {
       starRating: 4.69,
       productCode: 'Apple',
       category: 'smartphones',
-      imageUrl: 'https://i.dummyjson.com/data/products/1/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '02/05/2024',
     },
     {
@@ -22,7 +23,8 @@ const products = {
       starRating: 4.44,
       productCode: 'Apple',
       category: 'smartphones',
-      imageUrl: 'https://i.dummyjson.com/data/products/2/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '02/05/2024',
     },
     {
@@ -35,8 +37,8 @@ const products = {
       starRating: 4.09,
       productCode: 'Samsung',
       category: 'smartphones',
-      imageUrl: 'https://i.dummyjson.com/data/products/3/thumbnail.jpg',
-      images: ['https://i.dummyjson.com/data/products/3/1.jpg'],
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '02/05/2024',
     },
     {
@@ -48,7 +50,8 @@ const products = {
       starRating: 4.3,
       productCode: 'OPPO',
       category: 'smartphones',
-      imageUrl: 'https://i.dummyjson.com/data/products/4/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '02/05/2024',
     },
     {
@@ -61,7 +64,8 @@ const products = {
       starRating: 4.09,
       productCode: 'Huawei',
       category: 'smartphones',
-      imageUrl: 'https://i.dummyjson.com/data/products/5/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '02/05/2024',
     },
     {
@@ -74,7 +78,8 @@ const products = {
       starRating: 4.57,
       productCode: 'Apple',
       category: 'laptops',
-      imageUrl: 'https://i.dummyjson.com/data/products/6/thumbnail.png',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '03/10/2023',
     },
     {
@@ -87,7 +92,8 @@ const products = {
       starRating: 4.25,
       productCode: 'Samsung',
       category: 'laptops',
-      imageUrl: 'https://i.dummyjson.com/data/products/7/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '03/10/2023',
     },
     {
@@ -100,7 +106,8 @@ const products = {
       starRating: 4.43,
       productCode: 'Microsoft Surface',
       category: 'laptops',
-      imageUrl: 'https://i.dummyjson.com/data/products/8/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '03/10/2023',
     },
     {
@@ -113,7 +120,8 @@ const products = {
       starRating: 4.54,
       productCode: 'Infinix',
       category: 'laptops',
-      imageUrl: 'https://i.dummyjson.com/data/products/9/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '03/10/2023',
     },
     {
@@ -126,7 +134,8 @@ const products = {
       starRating: 4.43,
       productCode: 'HP Pavilion',
       category: 'laptops',
-      imageUrl: 'https://i.dummyjson.com/data/products/10/thumbnail.jpeg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '03/10/2023',
     },
     {
@@ -139,7 +148,8 @@ const products = {
       starRating: 4.26,
       productCode: 'Impression of Acqua Di Gio',
       category: 'fragrances',
-      imageUrl: 'https://i.dummyjson.com/data/products/11/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '24/02/2023',
     },
     {
@@ -151,7 +161,8 @@ const products = {
       starRating: 4,
       productCode: 'Royal_Mirage',
       category: 'fragrances',
-      imageUrl: 'https://i.dummyjson.com/data/products/12/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '24/02/2023',
     },
     {
@@ -164,7 +175,8 @@ const products = {
       starRating: 4.59,
       productCode: 'Fog Scent Xpressio',
       category: 'fragrances',
-      imageUrl: 'https://i.dummyjson.com/data/products/13/thumbnail.webp',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '24/02/2023',
     },
     {
@@ -177,7 +189,8 @@ const products = {
       starRating: 4.21,
       productCode: 'Al Munakh',
       category: 'fragrances',
-      imageUrl: 'https://i.dummyjson.com/data/products/14/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '24/02/2023',
     },
     {
@@ -190,7 +203,8 @@ const products = {
       starRating: 4.7,
       productCode: 'Lord - Al-Rehab',
       category: 'fragrances',
-      imageUrl: 'https://i.dummyjson.com/data/products/15/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '24/02/2023',
     },
     {
@@ -203,7 +217,8 @@ const products = {
       starRating: 4.83,
       productCode: "L'Oreal Paris",
       category: 'skincare',
-      imageUrl: 'https://i.dummyjson.com/data/products/16/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '14/02/2021',
     },
     {
@@ -216,7 +231,8 @@ const products = {
       starRating: 4.52,
       productCode: 'Hemani Tea',
       category: 'skincare',
-      imageUrl: 'https://i.dummyjson.com/data/products/17/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '14/02/2021',
     },
     {
@@ -229,7 +245,8 @@ const products = {
       starRating: 4.56,
       productCode: 'Dermive',
       category: 'skincare',
-      imageUrl: 'https://i.dummyjson.com/data/products/18/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '14/02/2021',
     },
     {
@@ -242,7 +259,8 @@ const products = {
       starRating: 4.42,
       productCode: 'ROREC White Rice',
       category: 'skincare',
-      imageUrl: 'https://i.dummyjson.com/data/products/19/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '14/02/2021',
     },
     {
@@ -255,7 +273,8 @@ const products = {
       starRating: 4.06,
       productCode: 'Fair & Clear',
       category: 'skincare',
-      imageUrl: 'https://i.dummyjson.com/data/products/20/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '14/02/2021',
     },
     {
@@ -267,7 +286,8 @@ const products = {
       starRating: 4.44,
       productCode: 'Saaf & Khaas',
       category: 'groceries',
-      imageUrl: 'https://i.dummyjson.com/data/products/21/thumbnail.png',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/04/2022',
     },
     {
@@ -279,7 +299,8 @@ const products = {
       starRating: 4.57,
       productCode: 'Bake Parlor Big',
       category: 'groceries',
-      imageUrl: 'https://i.dummyjson.com/data/products/22/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/04/2022',
     },
     {
@@ -292,7 +313,8 @@ const products = {
       starRating: 4.85,
       productCode: 'Baking Food Items',
       category: 'groceries',
-      imageUrl: 'https://i.dummyjson.com/data/products/23/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/04/2022',
     },
     {
@@ -305,7 +327,8 @@ const products = {
       starRating: 4.94,
       productCode: 'fauji',
       category: 'groceries',
-      imageUrl: 'https://i.dummyjson.com/data/products/24/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/04/2022',
     },
     {
@@ -318,7 +341,8 @@ const products = {
       starRating: 4.87,
       productCode: 'Dry Rose',
       category: 'groceries',
-      imageUrl: 'https://i.dummyjson.com/data/products/25/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/04/2022',
     },
     {
@@ -331,7 +355,8 @@ const products = {
       starRating: 4.08,
       productCode: 'Boho Decor',
       category: 'home-decoration',
-      imageUrl: 'https://i.dummyjson.com/data/products/26/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/05/2022',
     },
     {
@@ -344,7 +369,8 @@ const products = {
       starRating: 4.41,
       productCode: 'Flying Wooden',
       category: 'home-decoration',
-      imageUrl: 'https://i.dummyjson.com/data/products/27/thumbnail.webp',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/05/2022',
     },
     {
@@ -357,7 +383,8 @@ const products = {
       starRating: 4.82,
       productCode: 'LED Lights',
       category: 'home-decoration',
-      imageUrl: 'https://i.dummyjson.com/data/products/28/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/05/2022',
     },
     {
@@ -370,7 +397,8 @@ const products = {
       starRating: 4.44,
       productCode: 'luxury palace',
       category: 'home-decoration',
-      imageUrl: 'https://i.dummyjson.com/data/products/29/thumbnail.webp',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/05/2022',
     },
     {
@@ -383,7 +411,8 @@ const products = {
       starRating: 4.92,
       productCode: 'Golden',
       category: 'home-decoration',
-      imageUrl: 'https://i.dummyjson.com/data/products/30/thumbnail.jpg',
+      imageUrl:
+        'https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png',
       releaseDate: '05/05/2022',
     },
   ],
