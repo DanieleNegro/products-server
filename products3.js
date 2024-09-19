@@ -1,5 +1,3 @@
-import products from './products2';
-
 const products = {
   products: [
     {
