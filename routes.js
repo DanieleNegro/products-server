@@ -95,4 +95,13 @@ export function apmRoutingServices(app) {
     console.log('GET: /api/rx/suppliers');
     return res.send(apmDataRxJs.suppliers);
   });
+
+  app.get('/api/rx/suppliers/:id', (req, res) => {
+    const supplierId = +req.params.id;
+    const supplier = apmDataRxJs.suppliers.find(
+      (item) => item.id === supplierId
+    );
+    console.log(`GET: /api/rx/suppliers/${supplierId}`, supplier);
+    return res.send(supplier);
+  });
 }
