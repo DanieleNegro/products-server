@@ -1,7 +1,15 @@
-import apmDataRouting from './products3.js';
+import apmDataRouting1 from './products.js';
+import apmDataRouting2 from './products2.js';
+import apmDataRouting3 from './products3.js';
 import apmDataRxJs from './products4.js';
 
-export function apmRoutingServices(app) {
+export function apmRoutingServices(app, dbKey) {
+  let apmDataRouting = apmDataRouting3;
+  if (dbKey === 'first') {
+    apmDataRouting = apmDataRouting1;
+  } else if (dbKey === 'second') {
+    apmDataRouting = apmDataRouting2;
+  }
   app.get('/api/products', (req, res) => {
     console.log('GET: /api/products');
     return res.send(apmDataRouting.products);
