@@ -60,13 +60,21 @@ The server exposes these services to db first, second and third:
 Retrieve list of products:
 
 - GET: /api/products
+
   Retrieve product:
-- GET: api/products/:id\
+
+- GET: api/products/:id
+
   Insert a product:
-- POST: /api/products\
+
+- POST: /api/products
+
   Delete product:
+
 - DELETE: /api/products/:id
+
   Update product:
+
 - PUT: /api/products/:id
 
   while these services are only to fourth
@@ -74,17 +82,31 @@ Retrieve list of products:
 Retrieve list of products:
 
 - GET: /api/rx/products
+
   Retrieve product:
+
 - GET: /api/rx/products/:id
+
   Insert a product:
+
 - POST: /api/rx/products
+
   Delete product:
+
 - DELETE: /api/rx/products/:id
+
   Update product:
+
 - PUT: /api/rx/products/:id
+
   Retrieve list of categories:
+
 - GET: /api/rx/categories
+
   Retrieve list of suppliers:
+
 - GET: /api/rx/suppliers
+
   Retrieve supplier:
+
 - GET: /api/rx/suppliers/:id
